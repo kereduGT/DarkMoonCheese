@@ -1,0 +1,21 @@
+{
+  "name": "dark-moon-cheese",
+  "displayName": "Dark Moon Cheese",
+  "description": "A fun dark moon cheese theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Moon Cheese",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Moon Cheese-color-theme.json"
+      }
+    ]
+  }
+}
