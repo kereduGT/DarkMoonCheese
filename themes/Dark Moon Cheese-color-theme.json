@@ -2,20 +2,6 @@
 	"name": "Dark Moon Cheese",
 	"displayName": "Dark Moon Cheese",
 	"description": "A VS Code theme based on a moon cheese",
-	"version": "1.0.0",
-	"publisher": "kerwindepaz",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/kereduGT/DarkMoonCheese",
-	},
-	"keywords": [
-		"theme",
-		"dark", 
-		"dark theme", 
-		"yellow", 
-		"moon", 
-		"cheese", 
-		"colors"],
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {

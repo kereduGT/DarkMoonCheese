@@ -2,7 +2,20 @@
   "name": "dark-moon-cheese",
   "displayName": "Dark Moon Cheese",
   "description": "A fun dark moon cheese theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "kerwindepaz",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kereduGT/DarkMoonCheese"
+	},
+	"keywords": [
+		"theme",
+		"dark", 
+		"dark theme", 
+		"yellow", 
+		"moon", 
+		"cheese", 
+		"colors"],
   "engines": {
     "vscode": "^1.91.0"
   },
