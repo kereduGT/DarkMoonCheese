@@ -1,5 +1,17 @@
 {
 	"name": "Dark Moon Cheese",
+	"displayName": "Dark Moon Cheese",
+	"description": "A VS Code theme based on a moon cheese",
+	"version": "1.0.0",
+	"publisher": "kerwindepaz",
+	"keywords": [
+		"theme",
+		"dark", 
+		"dark theme", 
+		"yellow", 
+		"moon", 
+		"cheese", 
+		"colors"],
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
@@ -19,8 +31,8 @@
 		"contrastBorder": "#fbdb725d",
 		"button.foreground": "#FBDC72" ,
 		"debugToolBar.background": "#252525",
-		"diffEditor.insertedTextBackground": "#fbdb7275",
-		"diffEditor.removedTextBackground": "#ff634769",
+		"diffEditor.insertedTextBackground": "#72fb9b56",
+		"diffEditor.removedTextBackground": "#ff63471e",
 		"dropdown.background": "#252525",
 		"dropdown.border": "#fbdb725d",
 		"editor.background": "#252525",
